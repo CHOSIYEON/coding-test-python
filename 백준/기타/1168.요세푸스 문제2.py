@@ -1,0 +1,1 @@
+# https://velog.io/@babnbabn/1168-요세푸스-문제2-Python
